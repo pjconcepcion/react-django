@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "lib": ["DOM"],
+    "jsx": "react",
+    "esModuleInterop": true
+  },
+  "include": ["src/*"],
+  "exclude": ["node_modules"], 
+}
